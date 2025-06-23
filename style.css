@@ -6,7 +6,7 @@ body {
 }
 
 .container {
-  background: white;
+  background: #581845;
   padding: 30px;
   border-radius: 12px;
   max-width: 500px;
@@ -37,7 +37,7 @@ ul {
 }
 
 li {
-  background: #581845 ;
+  background: white ;
   margin: 10px;
   padding: 10px;
   border-radius: 6px;
